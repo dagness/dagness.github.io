@@ -15,27 +15,16 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
-# Social Sharing
-twitter:
-  username               : "danagness"
-
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 # Site Author
 author:
   name             : #"Daniel Agness"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/agness_headshot.jpg"
   bio              : "3rd Year - Agricultural & Resource Economics - UC Berkeley"
   location         : #"Berkeley, CA"
   email            : #"dagness@berkeley.edu"
   links:
     - label: "dagness@berkeley.edu"
+      icon: ""
       url: "mailto:dagness@berkeley.edu"
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
