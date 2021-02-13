@@ -12,8 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Daniel Agness"
@@ -46,34 +45,18 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "3rd Year - Agricultural & Resource Economics - UC Berkeley"
   location         : #"Berkeley, CA"
-  email            : "dagness@berkeley.edu"
+  email            : #"dagness@berkeley.edu"
   links:
-    - label: "dagness [at] berkeley [dot] edu"
+    - label: "dagness@berkeley.edu"
       url: "mailto:dagness@berkeley.edu"
-    - label: "Twitter"
+    - label: #"Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danagness"
-    - label: "GitHub"
+    - label: #"GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dagness"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.linkedin.com/in/daniel-agness/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dagness@berkeley.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danagness"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dagness"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+    - label: #"Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/daniel-agness/"
 
 
