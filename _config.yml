@@ -42,10 +42,10 @@ social:
 
 # Site Author
 author:
-  name             : "Daniel Agness"
+  name             : #"Daniel Agness"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "3rd Year - Agricultural & Resource Economics - UC Berkeley"
-  location         : "Somewhere"
+  location         : "Berkeley, CA"
   email            : "dagness@berkeley.edu"
   links:
     - label: "Email"
