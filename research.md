@@ -17,5 +17,7 @@ permalink: /research/
 [AEA RCT Registry - 0002114](https:g//www.socialscienceregistry.org/trials/2114)
 
 ## Other Research
-1. African Urban Development Research Initiative <br>
-[Addis Ababa First Round Report](https://kingcenter.stanford.edu/sites/default/files/SEDRI%20Wave%201%20Report%5B1%5D.pdf)
+1. African Urbanization and Development Research Initiative <br>
+[Addis Ababa First Round Report](https://drive.google.com/file/d/12X3yfn7OIj-LnzmD5W2tTAieJFmvNSpE/view)
+1. Impacts of Covid-19 on Education and Labor Market Outcomes in Ethiopia <br>
+[IGC Report](https://www.theigc.org/wp-content/uploads/2021/04/Agness-et-al-2021-Final-Report.pdf)
