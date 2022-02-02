@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 ---
 
 I'm a 4th year PhD student in Agricultural & Resource Economics at UC Berkeley.
@@ -11,7 +12,7 @@ Prior to coming to coming to Berkeley I was a Research Manager at Stanford Unive
 and a Research Associate at IPA - Kenya. 
 
 ## Working Papers
-1. Valuing the Time of the Self-Employed - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
+1. [Valuing the Time of the Self-Employed]({{ site.url }}/assets/Valuing_the_Time_of_the_Self_Employed.pdf) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
 [AEA RCT Registry - 0004110](https://www.socialscienceregistry.org/trials/4110) <br>
 1. New Technology and Network Change: Experimental Evidence from Kenya
 
