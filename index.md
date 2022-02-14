@@ -13,7 +13,7 @@ and a Research Associate at IPA - Kenya.
 
 ## Working Papers
 1. [Valuing the Time of the Self-Employed]({{ site.url }}/assets/Valuing_the_Time_of_the_Self_Employed.pdf) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
-[AEA RCT Registry - 0004110](https://www.socialscienceregistry.org/trials/4110) <br>
+[[AEA RCT Registry - 0004110]](https://www.socialscienceregistry.org/trials/4110) [[NBER WP]](https://www.nber.org/papers/w29752) Submitted. <br>
 1. New Technology and Network Change: Experimental Evidence from Kenya
 
 ## Works in Progress
