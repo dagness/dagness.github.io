@@ -5,11 +5,10 @@ classes: wide
 ---
 
 I'm a 4th year PhD student in Agricultural & Resource Economics at UC Berkeley.
-I primarily study social networks and technology adoption in Ethiopia, Kenya, and Rwanda.
+My research focuses on social networks and technology adoption in Ethiopia, Kenya, and Rwanda.
 
-I'm an NSF GRFP recipient and have recently been working with the DIME unit at the World Bank.
-Prior to coming to coming to Berkeley I was a Research Manager at Stanford University
-and a Research Associate at IPA - Kenya. 
+I've been supported by an NSF GRFP grant and have recently been working with the DIME unit at the World Bank.
+Prior to coming to Berkeley, I was a Research Manager at Stanford University and a Research Associate at IPA - Kenya. 
 
 ## Working Papers
 1. [Valuing the Time of the Self-Employed]({{ site.url }}/assets/Valuing_the_Time_of_the_Self_Employed.pdf) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
