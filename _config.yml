@@ -19,12 +19,12 @@ masthead_title           : # overrides the website title displayed in the masthe
 author:
   name             : #"Daniel Agness"
   avatar           : "/assets/agness_headshot.jpg"
-  bio              : "4th Year - Agricultural & Resource Economics - UC Berkeley"
+  bio              : #"4th Year - Agricultural & Resource Economics - UC Berkeley"
   location         : #"Berkeley, CA"
   email            : #"dagness@berkeley.edu"
   links:
     - label: "dagness@berkeley.edu"
-      icon: "fab fa-fw fa-circle-envelope"
+      icon: "fas fa-fw fa-circle-envelope"
       url: "mailto:dagness@berkeley.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -36,7 +36,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/daniel-agness/"
     - label: "CV"
-      icon: "fab fa-fw fa-list"
+      icon: "fas fa-fw fa-list"
       url: "https://dagness.github.io/assets/agness_cv.pdf"
 
 # Google Analytics
