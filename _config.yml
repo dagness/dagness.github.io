@@ -24,7 +24,7 @@ author:
   email            : #"dagness@berkeley.edu"
   links:
     - label: "Contact"
-      icon: "fas fa-fw fa-circle-envelope"
+      icon: "fab fa-fw fa-circle-envelope"
       url: "mailto:dagness@berkeley.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
