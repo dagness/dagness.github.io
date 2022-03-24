@@ -23,7 +23,7 @@ author:
   location         : #"Berkeley, CA"
   email            : #"dagness@berkeley.edu"
   links:
-    - label: "dagness@berkeley.edu"
+    - label: "Contact"
       icon: "fas fa-fw fa-circle-envelope"
       url: "mailto:dagness@berkeley.edu"
     - label: "Twitter"
