@@ -7,7 +7,7 @@ title                    : "Daniel Agness"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daniel Agness"
-description              : "4th Year - Agricultural & Resource Economics - UC Berkeley"
+description              : #"4th Year - Agricultural & Resource Economics - UC Berkeley"
 url                      : "https://dagness.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dagness/dagness.github.io"
@@ -37,7 +37,7 @@ author:
       url: "https://www.linkedin.com/in/daniel-agness/"
     - label: "CV"
       icon: "fab fa-fw fa-list"
-      url: {{ site.url }}/assets/agness_cv.pdf
+      url: "https://dagness.github.io/assets/agness_cv.pdf"
 
 # Google Analytics
 google_analytics: G-J50VG5SBK1
