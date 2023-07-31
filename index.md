@@ -26,7 +26,7 @@ Prior to coming to Berkeley, I was a Research Manager at Stanford University and
 [AEA RCT Registry - 0004697](https://www.socialscienceregistry.org/trials/4697) Data collection in progress.
 1. Sustainable Agricultural Intensification and Food Security Project - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
 Data collection in progress. <br>
-1. Wages, Labor Poaching, and Foreign Competition: Evidence from Ethiopia - with Girum Abebe <br>
+1. Wages, Labor Poaching, and Foreign Competition: Evidence from Ethiopia - with G. Abebe <br>
 Pilot in progress. <br>
 
 ## Other Research
