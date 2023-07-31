@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-I'm a 5th year PhD student in Agricultural & Resource Economics at UC Berkeley.
+I'm a 6th year PhD student in Agricultural & Resource Economics at UC Berkeley.
 My research focuses on anti-poverty policies and social networks in Ethiopia, Kenya, and Rwanda.
 
 I've been supported by an NSF GRFP grant and have recently been working with the DIME unit at the World Bank.
@@ -17,7 +17,7 @@ Prior to coming to Berkeley, I was a Research Manager at Stanford University and
 
 ## Works in Progress
 1. Housing and Human Capital: Condominiums in Ethiopia - with T. Getahun <br>
-[3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) Data collection in progress. <br>
+[3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) JMP - Draft coming soon. <br>
 1. Self-timed Credit Contracts: Evidence from Kenyan Farmers - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
 [AEA RCT Registry - 0002949](https://www.socialscienceregistry.org/trials/2949) Data collection complete. <br>
 1. The role of information, accountability and resource gaps in explaining urban services quality in Ethiopia - with [P. Dupas](https://web.stanford.edu/~pdupas/) <br>
@@ -26,6 +26,8 @@ Prior to coming to Berkeley, I was a Research Manager at Stanford University and
 [AEA RCT Registry - 0004697](https://www.socialscienceregistry.org/trials/4697) Data collection in progress.
 1. Sustainable Agricultural Intensification and Food Security Project - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
 Data collection in progress. <br>
+1. Wages, Labor Poaching, and Foreign Competition: Evidence from Ethiopia - with Girum Abebe <br>
+Pilot in progress. <br>
 
 ## Other Research
 1. African Urbanization and Development Research Initiative <br>
