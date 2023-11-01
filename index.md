@@ -5,7 +5,7 @@ classes: wide
 ---
 
 I'm a 6th year PhD student in Agricultural & Resource Economics at UC Berkeley.
-My research focuses on anti-poverty policies and social networks in Ethiopia, Kenya, and Rwanda.
+My research focuses on urbanization, agricultural transformation, and social networks in East Africa.
 
 I've been supported by an NSF GRFP grant and have recently been working with the DIME unit at the World Bank.
 Prior to coming to Berkeley, I was a Research Manager at Stanford University and a Research Associate at IPA - Kenya. 
