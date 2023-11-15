@@ -11,13 +11,13 @@ I've been supported by an NSF GRFP grant and have recently been working with the
 Prior to coming to Berkeley, I was a Research Manager at Stanford University and a Research Associate at IPA - Kenya. 
 
 ## Working Papers
+1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
+[3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) JMP - Draft coming soon. <br>
 1. [Valuing the Time of the Self-Employed]({{ site.url }}/assets/Valuing_the_Time_of_the_Self_Employed.pdf) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
 [[AEA RCT Registry - 0004110]](https://www.socialscienceregistry.org/trials/4110) [[NBER WP]](https://www.nber.org/papers/w29752) R&R - Review of Economic Studies. <br>
 1. New Technology and Network Change: Experimental Evidence from Kenya
 
 ## Works in Progress
-1. Housing and Human Capital: Condominiums in Ethiopia - with T. Getahun <br>
-[3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) JMP - Draft coming soon. <br>
 1. Self-timed Credit Contracts: Evidence from Kenyan Farmers - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
 [AEA RCT Registry - 0002949](https://www.socialscienceregistry.org/trials/2949) Data collection complete. <br>
 1. The role of information, accountability and resource gaps in explaining urban services quality in Ethiopia - with [P. Dupas](https://web.stanford.edu/~pdupas/) <br>
