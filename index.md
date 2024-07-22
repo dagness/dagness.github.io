@@ -4,11 +4,11 @@ author_profile: true
 classes: wide
 ---
 
-I'm a 6th year PhD student in Agricultural & Resource Economics at UC Berkeley.
+I recently completed my PhD in Agricultural & Resource Economics at UC Berkeley. Starting in Fall 2024, I will be starting as an Assistant Professor at the University of Maryland, College Park Department of Economics.
 My research focuses on urbanization, agricultural transformation, and social networks in East Africa.
 
 I've been supported by an NSF GRFP grant and have recently been working with the DIME unit at the World Bank.
-Prior to coming to Berkeley, I was a Research Manager at Stanford University and a Research Associate at IPA - Kenya. 
+Prior to coming to my PhD, I was a Research Manager at Stanford University and a Research Associate at IPA - Kenya. 
 
 ## Working Papers
 1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
