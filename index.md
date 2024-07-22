@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-I recently completed my PhD in Agricultural & Resource Economics at UC Berkeley. Starting in Fall 2024, I will be starting as an Assistant Professor at the University of Maryland, College Park Department of Economics.
+I recently completed my PhD in Agricultural & Resource Economics at UC Berkeley. In Fall 2024, I will be starting as an Assistant Professor at the University of Maryland, College Park - Department of Economics.
 My research focuses on urbanization, agricultural transformation, and social networks in East Africa.
 
 I've been supported by an NSF GRFP grant and have recently been working with the DIME unit at the World Bank.
