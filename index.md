@@ -4,11 +4,8 @@ author_profile: true
 classes: wide
 ---
 
-I recently completed my PhD in Agricultural & Resource Economics at UC Berkeley. In Fall 2024, I will be starting as an Assistant Professor at the University of Maryland, College Park - Department of Economics.
+I am an Assistant Professor of Economics at the University of Maryland, College Park. I completed my PhD in Agricultural and Resource Economics at UC Berkeley in 2024.
 My research focuses on urbanization, agricultural transformation, and social networks in East Africa.
-
-I've been supported by an NSF GRFP grant and have recently been working with the DIME unit at the World Bank.
-Prior to coming to my PhD, I was a Research Manager at Stanford University and a Research Associate at IPA - Kenya. 
 
 ## Working Papers
 1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
@@ -36,3 +33,6 @@ Pilot in progress. <br>
 [Addis Ababa First Round Report](https://drive.google.com/file/d/12X3yfn7OIj-LnzmD5W2tTAieJFmvNSpE/view)
 1. Impacts of Covid-19 on Education and Labor Market Outcomes in Ethiopia <br>
 [IGC Report](https://www.theigc.org/wp-content/uploads/2021/04/Agness-et-al-2021-Final-Report.pdf)
+
+## Media
+1. [The Future is Urban](https://kingcenter.stanford.edu/news/future-urban) - Stanford King Center on Global Development
