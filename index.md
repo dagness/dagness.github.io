@@ -8,7 +8,7 @@ I am an Assistant Professor of Economics at the University of Maryland, College 
 My research focuses on urbanization, agricultural transformation, and social networks in East Africa. <br>
 
 Office Hours:
-To sign up for office hours, please reserve a slot [here]{https://calendar.app.google/6usw2AFRCVGfLh5c6}.
+To sign up for office hours, please reserve a slot [here](https://calendar.app.google/6usw2AFRCVGfLh5c6).
 
 ## Working Papers
 1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
