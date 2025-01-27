@@ -5,13 +5,16 @@ classes: wide
 ---
 
 I am an Assistant Professor of Economics at the University of Maryland, College Park. I completed my PhD in Agricultural and Resource Economics at UC Berkeley in 2024.
-My research focuses on urbanization, agricultural transformation, and social networks in East Africa.
+My research focuses on urbanization, agricultural transformation, and social networks in East Africa. <br>
+
+Office Hours:
+To sign up for office hours, please reserve a slot [here]{https://calendar.app.google/6usw2AFRCVGfLh5c6}.
 
 ## Working Papers
 1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
 [3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) JMP <br>
-1. [Valuing the Time of the Self-Employed]({{ site.url }}/assets/Valuing_the_Time_of_the_Self_Employed.pdf) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
-[[AEA RCT Registry - 0004110]](https://www.socialscienceregistry.org/trials/4110) [[NBER WP]](https://www.nber.org/papers/w29752) Conditionally Accepted - Review of Economic Studies. <br>
+1. [Valuing the Time of the Self-Employed](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf003/7958347?utm_source=authortollfreelink&utm_campaign=restud&utm_medium=email&guestAccessKey=0985707b-c5d5-460d-975f-6120ee8d0a24) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
+Review of Economic Studies, 2025. <br>
 1. New Technology and Network Change: Experimental Evidence from Kenya <br>
 Draft available upon request.
 
