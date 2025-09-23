@@ -10,11 +10,13 @@ My research focuses on urbanization, agricultural transformation, and social net
 Office Hours:
 To sign up for office hours, please reserve a slot [here](https://calendar.app.google/6usw2AFRCVGfLh5c6).
 
+## Publications
+1. [Valuing the Time of the Self-Employed](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf003/7958347?utm_source=authortollfreelink&utm_campaign=restud&utm_medium=email&guestAccessKey=0985707b-c5d5-460d-975f-6120ee8d0a24) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
+Review of Economic Studies, 2025. <br>
+
 ## Working Papers
 1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
 [3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) JMP <br>
-1. [Valuing the Time of the Self-Employed](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf003/7958347?utm_source=authortollfreelink&utm_campaign=restud&utm_medium=email&guestAccessKey=0985707b-c5d5-460d-975f-6120ee8d0a24) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
-Review of Economic Studies, 2025. <br>
 1. Don't know, don't care? Experimental evidence on barriers too responsive public services in Ethiopia - with [P. Dupas](https://web.stanford.edu/~pdupas/), T. Getahun, F. Negash <br>
 [AEA RCT Registry - 0002114](https://www.socialscienceregistry.org/trials/2114) Draft available upon request. <br>
 1. New Technology and Network Change: Experimental Evidence from Kenya <br>
