@@ -24,16 +24,16 @@ Draft available upon request.
 
 
 ## Works in Progress
-1. Self-timed Credit Contracts: Evidence from Kenyan Farmers - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
-[AEA RCT Registry - 0002949](https://www.socialscienceregistry.org/trials/2949) Data collection complete. <br>
 1. Land Market Frictions, Technology Adoption, and Farm Profits - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
 [AEA RCT Registry - 0004697](https://www.socialscienceregistry.org/trials/4697) Draft coming soon.
+1. Self-timed Credit Contracts: Evidence from Kenyan Farmers - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
+[AEA RCT Registry - 0002949](https://www.socialscienceregistry.org/trials/2949) Data collection complete. <br>
 1. Sustainable Agricultural Intensification and Food Security Project - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
 Data collection complete. <br>
 1. Wages, Labor Poaching, and Foreign Competition: Evidence from Ethiopia - with G. Abebe <br>
 Pilot complete. <br>
 1. Job search and labor market access in urban Ethiopia - with T. Getahun <br> 
-Funding acquired <br>
+Funding acquired. <br>
 
 ## Other Research
 1. African Urbanization and Development Research Initiative <br>
