@@ -13,7 +13,7 @@ To sign up for office hours, please reserve a slot [here](https://calendar.app.g
 ## Publications
 1. [Valuing the Time of the Self-Employed](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf003/7958347?utm_source=authortollfreelink&utm_campaign=restud&utm_medium=email&guestAccessKey=0985707b-c5d5-460d-975f-6120ee8d0a24) - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
 Review of Economic Studies, 2025. <br>
-[VoxDev Article](https://voxdev.org/topic/labour-markets/how-value-time-self-employed)[World Bank Blog](https://blogs.worldbank.org/en/impactevaluations/time-money-how-much) <br>
+[VoxDev Article](https://voxdev.org/topic/labour-markets/how-value-time-self-employed)  [World Bank Blog](https://blogs.worldbank.org/en/impactevaluations/time-money-how-much) <br>
 
 ## Working Papers
 1. [Housing and Human Capital: Condominiums in Ethiopia]({{ site.url }}/assets/hhc_jmp.pdf) - with T. Getahun <br>
