@@ -20,13 +20,14 @@ Review of Economic Studies, 2025. <br>
 [3ie Registry](https://ridie.3ieimpact.org/index.php?r=study/detailView&id=1169) JMP <br>
 1. Don't know, don't care? Experimental evidence on barriers too responsive public services in Ethiopia - with [P. Dupas](https://web.stanford.edu/~pdupas/), T. Getahun, F. Negash <br>
 [AEA RCT Registry - 0002114](https://www.socialscienceregistry.org/trials/2114) Draft available upon request. <br>
+1. Networks and Misallocation in Agriculture - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
+[AEA RCT Registry - 0004697](https://www.socialscienceregistry.org/trials/4697) Draft available upon request. <br>
 1. New Technology and Network Change: Experimental Evidence from Kenya <br>
 Draft available upon request.
 
 
 ## Works in Progress
-1. Land Market Frictions, Technology Adoption, and Farm Profits - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
-[AEA RCT Registry - 0004697](https://www.socialscienceregistry.org/trials/4697) Draft coming soon.
+
 1. Self-timed Credit Contracts: Evidence from Kenyan Farmers - with [T. Baseler](https://sites.google.com/view/travisbaseler), [S. Chassang](https://www.sylvainchassang.org/), [P. Dupas](https://web.stanford.edu/~pdupas/), [E. Snowberg](https://eriksnowberg.com/) <br>
 [AEA RCT Registry - 0002949](https://www.socialscienceregistry.org/trials/2949) Data collection complete. <br>
 1. Sustainable Agricultural Intensification and Food Security Project - with [F. Kondylis](https://sites.google.com/site/decrgkondylis/), [J. Loeser](http://johnloeser.github.io/), [J. Magruder](https://are.berkeley.edu/~jmagruder/) <br>
